@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-  <a href="https://www.linkedin.com/in/erensolmaz/" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/noiren/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Lakshay" height="30" width="40" /></a>
 
