@@ -1,5 +1,6 @@
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=erensolmaz.visitor-badge&right_color=orange&left_text=Visitors)](https://gitHub.com/erensolmaz)
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erensolmaz&label=Profile%20views&color=orange&style=flat" alt="erensolmaz" />
+</p>
 
 
 
