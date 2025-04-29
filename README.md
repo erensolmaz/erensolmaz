@@ -1,9 +1,13 @@
 <div align="center">
   <a href="https://github.com/erensolmaz">
-    <img src="https://komarev.com/ghpvc/?username=erensolmaz&label=Visitors&color=orange&style=flat" alt="Github visitors"/>
+    <img src="https://img.shields.io/badge/Visitors-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visitor Badge">
   </a>
 </div>
 
+
+
+
+<div align="center">
 
 
 
