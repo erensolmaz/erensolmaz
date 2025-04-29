@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erensolmaz&label=Profile%20views&color=orange&style=flat" alt="erensolmaz" />
-</p>
+<div align="center">
+  <a href="https://github.com/erensolmaz">
+    <img src="https://komarev.com/ghpvc/?username=erensolmaz&label=Visitors&color=orange&style=flat" alt="Github visitors"/>
+  </a>
+</div>
+
 
 
 
