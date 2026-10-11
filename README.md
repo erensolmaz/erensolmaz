@@ -21,6 +21,7 @@
 - 🧠 Machine Learning and image processing with Python
 - 🌐 Web apps with **React** and **Node.js**, plus Django, TypeScript and PHP
 - 📱 Mobile and desktop projects: Java/Android, Delphi
+- 🔌 Working with **REST APIs** and third-party API integrations (Riot Games, Gemini, Firebase)
 - ☁️ Using **Azure DevOps** for repos, boards and CI/CD pipelines
 
 ## 🛠️ Tech Stack
@@ -40,28 +41,25 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 🔨 Projects I Build
+## 🔨 Projects I'm Working On
 
-### ✅ Completed
+**InkSpire** — A writing platform with an AI writing assistant, daily and timed writing challenges, and user profiles.
 
-**InkSpire** — A writing platform with an AI writing assistant (Genkit + Gemini), daily and timed writing challenges, draft uploads and user profiles. Deployed on Firebase Hosting and Vercel.
+`React` `Firebase` `Genkit` `Gemini API`
 
-`React` `Firebase` `Genkit` `Gemini` `Vercel`
-
-### 🚧 Actively Working On
-
-**LanternGG** — A mobile social app for League of Legends players: Riot ID login, rank and stats display, player search, global chat and achievement tracking.
+**LanternGG** — A mobile social app for gamers, powered by the Riot Games API.
 
 `React Native` `Expo` `TypeScript` `Firebase` `Riot Games API`
 
-**Mushgnoom** — A first-person 3D game built in Unity 6 about gathering mushrooms, with a procedural character animation system: foot IK, a physics-based walk cycle, crouching, jumping and ledge handling. Includes mushroom uprooting, grabbing and throwing objects, ragdoll combat, a hunger system and wandering creatures.
+**Mushgnoom** — An AI-assisted 3D game built with Unity.
 
-`C#` `Unity 6` `Procedural Animation` `IK`
+`C#` `Unity`
 
 > InkSpire and LanternGG are private repositories.
 
