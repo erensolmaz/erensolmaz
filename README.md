@@ -49,11 +49,11 @@
 
 ## 🔨 Projects I'm Working On
 
-**InkSpire** — A writing platform with an AI writing assistant, daily and timed writing challenges, and user profiles.
+**InkSpire** — A writing platform with an AI writing assistant (Genkit + Gemini), daily and timed writing challenges, draft uploads and user profiles. Deployed on Firebase Hosting and Vercel.
 
-`React` `Firebase` `Genkit` `Gemini API`
+`React` `Firebase` `Genkit` `Gemini API` `Vercel`
 
-**LanternGG** — A mobile social app for gamers, powered by the Riot Games API.
+**LanternGG** — A mobile social app for gamers with Riot ID login, rank and stats display, player search, global chat and achievement tracking, powered by the Riot Games API.
 
 `React Native` `Expo` `TypeScript` `Firebase` `Riot Games API`
 
