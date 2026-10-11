@@ -45,6 +45,26 @@
 
 </div>
 
+## 🔨 Projects I Build
+
+### ✅ Completed
+
+**InkSpire** — A writing platform with an AI writing assistant (Genkit + Gemini), daily and timed writing challenges, draft uploads and user profiles. Deployed on Firebase Hosting and Vercel.
+
+`React` `Firebase` `Genkit` `Gemini` `Vercel`
+
+### 🚧 Actively Working On
+
+**LanternGG** — A mobile social app for League of Legends players: Riot ID login, rank and stats display, player search, global chat and achievement tracking.
+
+`React Native` `Expo` `TypeScript` `Firebase` `Riot Games API`
+
+**Mushgnoom** — A first-person 3D game built in Unity 6 about gathering mushrooms, with a procedural character animation system: foot IK, a physics-based walk cycle, crouching, jumping and ledge handling. Includes mushroom uprooting, grabbing and throwing objects, ragdoll combat, a hunger system and wandering creatures.
+
+`C#` `Unity 6` `Procedural Animation` `IK`
+
+> InkSpire and LanternGG are private repositories.
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
