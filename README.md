@@ -61,7 +61,7 @@
 
 `C#` `Unity`
 
-> InkSpire and LanternGG are private repositories.
+> InkSpire, LanternGG and Mushgnoom are private repositories.
 
 ## 🚀 Featured Projects
 
