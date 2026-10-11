@@ -41,62 +41,18 @@
 
 </div>
 
-## 🚀 Current Projects
-
-### 🧠 Machine Learning & AI
-
-| Project | Description | Tech |
-|---|---|---|
-| [🌿 Leaf_Disease_Identification](https://github.com/erensolmaz/Leaf_Disease_Identification) | Plant disease classification from segmented leaf regions (classical image processing + CNN) | `Python` `CNN` |
-| [📚 Machine-Learning](https://github.com/erensolmaz/Machine-Learning) | Course assignments: KNN, decision tree, random forest, MLP and K-Means implemented from scratch | `Python` |
-| [🖼️ image_processing_application](https://github.com/erensolmaz/image_processing_application) | Desktop app for image processing: filters, transforms, histogram and morphology | `Python` `PyQt5` |
-
-### 🎮 Game Development
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | [🛡️ Guard-Simulator](https://github.com/erensolmaz/Guard-Simulator) | First-person security simulation game built in Unity 6 | `C#` `Unity` |
-| [🌐 GuardSimulatorWeb](https://github.com/erensolmaz/GuardSimulatorWeb) | Cyberpunk-themed landing page for Guard Simulator | `TypeScript` `React` `Vite` |
-
-<details>
-<summary><b>🗄️ Earlier Projects (2022) — click to expand</b></summary>
-
-<br>
-
-**📱 Mobile (Android / Java)**
-
-| Project | Description |
-|---|---|
-| [💧 ErenSu](https://github.com/erensolmaz/ErenSu) | Water-delivery app with login, cart and dark/light theme |
-| [📱 Uygulamalar](https://github.com/erensolmaz/Uygulamalar) | Multi-app: calculator, currency converter, gallery and more |
-| [🧮 Java-Calculator](https://github.com/erensolmaz/Java-Calculator) | Simple calculator app |
-| [🧩 Appinventor-learning-game](https://github.com/erensolmaz/Appinventor-learning-game) | Puzzle learning game made with MIT App Inventor |
-
-**🌐 Web**
-
-| Project | Description |
-|---|---|
-| [🛒 Django-Project](https://github.com/erensolmaz/Django-Project) | Django e-commerce site with cart and orders |
-| [🛍️ E-Commerce](https://github.com/erensolmaz/E-Commerce) | Basic online shop front-end with PHP/MySQL sign-up |
-| [📰 Blog-Site](https://github.com/erensolmaz/Blog-Site) · [📝 Basic-Blog-Site](https://github.com/erensolmaz/Basic-Blog-Site) | Blog websites |
-| [🌐 Html-Basics](https://github.com/erensolmaz/Html-Basics) | HTML/CSS practice examples |
-
-**🖥️ Desktop (Delphi)**
-
-| Project | Description |
-|---|---|
-| [🗃️ Delphi-data-entry](https://github.com/erensolmaz/Delphi-data-entry) | Personnel tracking app with Access database |
-| [🎮 Delphi-Canvas-Zip-Game](https://github.com/erensolmaz/Delphi-Canvas-Zip-Game) · [🖱️ Delphi-Follow-the-cursor](https://github.com/erensolmaz/Delphi-Follow-the-cursor) | Small canvas games |
-| [📊 DelphiBasics2](https://github.com/erensolmaz/DelphiBasics2) · [🧪 DelphiBasics](https://github.com/erensolmaz/DelphiBasics) · [📚 Delphi-Learning](https://github.com/erensolmaz/Delphi-Learning) | Delphi learning projects |
-
-**🎮 Games & Learning**
-
-| Project | Description |
-|---|---|
-| [🏃 Unity-2D-Game](https://github.com/erensolmaz/Unity-2D-Game) | 2D parkour game with two stages, points and traps |
-| [☕ Java-Camp](https://github.com/erensolmaz/Java-Camp) | kodlama.io Java camp: fundamentals, OOP, Spring Boot |
-
-</details>
+| [🌐 GuardSimulatorWeb](https://github.com/erensolmaz/GuardSimulatorWeb) | Website for the Guard Simulator game | `TypeScript` |
+| [🌿 Leaf_Disease_Identification](https://github.com/erensolmaz/Leaf_Disease_Identification) | Plant disease classification from segmented leaf regions | `Python` `ML` |
+| [🖼️ image_processing_application](https://github.com/erensolmaz/image_processing_application) | Image processing application | `Python` |
+| [🏃 Unity-2D-Game](https://github.com/erensolmaz/Unity-2D-Game) | 2D parkour game with two stages, points and traps | `C#` `Unity` |
+| [🛒 Django-Project](https://github.com/erensolmaz/Django-Project) | Django e-commerce website with cart and products | `Python` `Django` |
+| [💧 ErenSu](https://github.com/erensolmaz/ErenSu) | Mobile water-delivery app with login/register & database | `Java` |
+| [📱 Uygulamalar](https://github.com/erensolmaz/Uygulamalar) | Collection of Android apps | `Java` |
 
 ## 📊 GitHub Stats
 
