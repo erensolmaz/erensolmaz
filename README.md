@@ -48,13 +48,7 @@
 | [🛡️ Guard-Simulator](https://github.com/erensolmaz/Guard-Simulator) | First-person security simulation game built in Unity 6 | `C#` `Unity` |
 | [🌐 GuardSimulatorWeb](https://github.com/erensolmaz/GuardSimulatorWeb) | Website for the Guard Simulator game | `TypeScript` |
 | [🌿 Leaf_Disease_Identification](https://github.com/erensolmaz/Leaf_Disease_Identification) | Plant disease classification from segmented leaf regions | `Python` `ML` |
-| [📚 Machine-Learning](https://github.com/erensolmaz/Machine-Learning) | KNN, decision tree, random forest, MLP and K-Means from scratch | `Python` `ML` |
 | [🖼️ image_processing_application](https://github.com/erensolmaz/image_processing_application) | Image processing application | `Python` |
-
-### 🗄️ Legacy Projects
-
-| Project | Description | Tech |
-|---|---|---|
 | [🏃 Unity-2D-Game](https://github.com/erensolmaz/Unity-2D-Game) | 2D parkour game with two stages, points and traps | `C#` `Unity` |
 | [🛒 Django-Project](https://github.com/erensolmaz/Django-Project) | Django e-commerce website with cart and products | `Python` `Django` |
 | [💧 ErenSu](https://github.com/erensolmaz/ErenSu) | Mobile water-delivery app with login/register & database | `Java` |
