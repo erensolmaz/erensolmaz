@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eren%20Solmaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Noiren%20%C2%B7%20Computer%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineer;Game+Developer+%F0%9F%8E%AE;Machine+Learning+Explorer+%F0%9F%A4%96;Always+learning,+always+building)](https://github.com/erensolmaz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineer;AI+Agents+%26+MCP+Servers+%F0%9F%A4%96;Automation+Builder+%E2%9A%99%EF%B8%8F;Game+Developer+%F0%9F%8E%AE;Machine+Learning+Explorer+%F0%9F%A7%A0;Always+learning,+always+building)](https://github.com/erensolmaz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=erensolmaz&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Profile Views](https://hits.sh/github.com/erensolmaz.svg?style=flat-square&label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/erensolmaz/)
 [![Followers](https://img.shields.io/github/followers/erensolmaz?label=Followers&style=flat-square&logo=github&color=2c5364)](https://github.com/erensolmaz?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-noiren-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noiren)
 [![Instagram](https://img.shields.io/badge/Instagram-erensolmaaz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/erensolmaaz)
@@ -15,9 +15,10 @@
 
 ## 👋 About Me
 
+- 🤖 Building with **AI agents**, **MCP servers** and **automation workflows** — I love wiring tools together so work runs itself
 - 🎓 Computer Engineer who loves turning ideas into working software
-- 🎮 Building games with **Unity** (C#) — currently working on **Guard Simulator**
-- 🧠 Exploring **Machine Learning** and image processing with Python
+- 🎮 Game development with **Unity** (C#) — **Guard Simulator**
+- 🧠 Machine Learning and image processing with Python
 - 🌐 Web, mobile and desktop projects: Django, Java/Android, Delphi, TypeScript
 - 🌌 Status: *seeing sky*
 
